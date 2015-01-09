@@ -1,22 +1,19 @@
 {
-  "name": "sparrow.js",
-  "version": "0.0.6",
-  "description": "light & simple, apigee-javascript adapter, for using with test frameworks",
+  "name": "apigee-mock",
+  "version": "0.0.1",
+  "description": "An Apigee mock testing library inspired by Sparrow.js",
   "keywords": [
     "apigee",
     "javascript",
     "test",
     "mocha"
   ],
-  "author": "Rajiv Kilaparti <rkilaparti@apigee.com>",
+  "author": "Darby Frey <darbyfrey@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/r8k/sparrow.js.git"
+    "url": "git://github.com/darbyfrey/apigee-mock.git"
   },
   "main": "./index",
-  "bin": {
-    "sparrow": "./bin/sparrow"
-  },
   "engines": {
     "node": ">= 0.8.x"
   },
