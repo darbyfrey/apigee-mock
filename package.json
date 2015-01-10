@@ -21,13 +21,12 @@
     "test": "make test"
   },
   "dependencies": {
-    "should": ">= 3.0.x"
+    "should": ">= 3.0.x",
+    "request": "^2.51.0",
+    "deasync": "0.0.7",
+    "mocha": "~1.17.1"
   },
   "optionalDependencies": {},
-  "devDependencies": {
-    "deasync": "0.0.7",
-    "mocha": "~1.17.1",
-    "request": "^2.51.0"
-  },
+  "devDependencies": {},
   "license": "MIT"
 }
