@@ -21,26 +21,26 @@
 7 verbose parsed url   href: '.' }
 8 silly lockFile 3a52ce78- .
 9 verbose lock . /Users/darbyfrey/.npm/3a52ce78-.lock
-10 verbose tar pack [ '/Users/darbyfrey/.npm/apigee-mock/0.0.1/package.tgz', '.' ]
-11 verbose tarball /Users/darbyfrey/.npm/apigee-mock/0.0.1/package.tgz
+10 verbose tar pack [ '/Users/darbyfrey/.npm/apigee-mock/0.0.3/package.tgz', '.' ]
+11 verbose tarball /Users/darbyfrey/.npm/apigee-mock/0.0.3/package.tgz
 12 verbose folder .
-13 info prepublish apigee-mock@0.0.1
+13 info prepublish apigee-mock@0.0.3
 14 silly lockFile 1f1177db-tar tar://.
 15 verbose lock tar://. /Users/darbyfrey/.npm/1f1177db-tar.lock
-16 silly lockFile 4120facd-pm-apigee-mock-0-0-1-package-tgz tar:///Users/darbyfrey/.npm/apigee-mock/0.0.1/package.tgz
-17 verbose lock tar:///Users/darbyfrey/.npm/apigee-mock/0.0.1/package.tgz /Users/darbyfrey/.npm/4120facd-pm-apigee-mock-0-0-1-package-tgz.lock
+16 silly lockFile 950644f6-pm-apigee-mock-0-0-3-package-tgz tar:///Users/darbyfrey/.npm/apigee-mock/0.0.3/package.tgz
+17 verbose lock tar:///Users/darbyfrey/.npm/apigee-mock/0.0.3/package.tgz /Users/darbyfrey/.npm/950644f6-pm-apigee-mock-0-0-3-package-tgz.lock
 18 silly lockFile 1f1177db-tar tar://.
 19 silly lockFile 1f1177db-tar tar://.
-20 silly lockFile 4120facd-pm-apigee-mock-0-0-1-package-tgz tar:///Users/darbyfrey/.npm/apigee-mock/0.0.1/package.tgz
-21 silly lockFile 4120facd-pm-apigee-mock-0-0-1-package-tgz tar:///Users/darbyfrey/.npm/apigee-mock/0.0.1/package.tgz
-22 silly lockFile 3cf02d2d-ey-npm-apigee-mock-0-0-1-package /Users/darbyfrey/.npm/apigee-mock/0.0.1/package
-23 verbose lock /Users/darbyfrey/.npm/apigee-mock/0.0.1/package /Users/darbyfrey/.npm/3cf02d2d-ey-npm-apigee-mock-0-0-1-package.lock
-24 silly lockFile 3cf02d2d-ey-npm-apigee-mock-0-0-1-package /Users/darbyfrey/.npm/apigee-mock/0.0.1/package
-25 silly lockFile 3cf02d2d-ey-npm-apigee-mock-0-0-1-package /Users/darbyfrey/.npm/apigee-mock/0.0.1/package
+20 silly lockFile 950644f6-pm-apigee-mock-0-0-3-package-tgz tar:///Users/darbyfrey/.npm/apigee-mock/0.0.3/package.tgz
+21 silly lockFile 950644f6-pm-apigee-mock-0-0-3-package-tgz tar:///Users/darbyfrey/.npm/apigee-mock/0.0.3/package.tgz
+22 silly lockFile 60258bed-ey-npm-apigee-mock-0-0-3-package /Users/darbyfrey/.npm/apigee-mock/0.0.3/package
+23 verbose lock /Users/darbyfrey/.npm/apigee-mock/0.0.3/package /Users/darbyfrey/.npm/60258bed-ey-npm-apigee-mock-0-0-3-package.lock
+24 silly lockFile 60258bed-ey-npm-apigee-mock-0-0-3-package /Users/darbyfrey/.npm/apigee-mock/0.0.3/package
+25 silly lockFile 60258bed-ey-npm-apigee-mock-0-0-3-package /Users/darbyfrey/.npm/apigee-mock/0.0.3/package
 26 silly lockFile 3a52ce78- .
 27 silly lockFile 3a52ce78- .
 28 silly publish { name: 'apigee-mock',
-28 silly publish   version: '0.0.1',
+28 silly publish   version: '0.0.3',
 28 silly publish   description: 'An Apigee mock testing library inspired by Sparrow.js',
 28 silly publish   keywords: [ 'apigee', 'javascript', 'test', 'mocha' ],
 28 silly publish   author: { name: 'Darby Frey', email: 'darbyfrey@gmail.com' },
@@ -60,39 +60,39 @@
 28 silly publish   license: 'MIT',
 28 silly publish   readme: 'apigee-mock\n===========\n\nAn Apigee mock testing library inspired by [Sparrow.js](https://github.com/r8k/sparrow.js).\n\n### Installation\n\n```\nnpm install -g apigee-mock\ncd your_project && sudo npm link apigee-mock\n```\n\n### Usage\n\nComing Soon\n',
 28 silly publish   readmeFilename: 'README.md',
-28 silly publish   gitHead: '0e7c396986784298b6b38e490f6006c20c6f4ffe',
+28 silly publish   gitHead: '122adf68b6b403592e7d42d6121fb7bf24797909',
 28 silly publish   bugs: { url: 'https://github.com/darbyfrey/apigee-mock/issues' },
 28 silly publish   homepage: 'https://github.com/darbyfrey/apigee-mock',
-28 silly publish   _id: 'apigee-mock@0.0.1',
-28 silly publish   _shasum: 'a30f41914f05b26f9137a74e9c325bd9e8811b3b',
+28 silly publish   _id: 'apigee-mock@0.0.3',
+28 silly publish   _shasum: '3c61830314e4829e71c151ae6aa77d69f02fa973',
 28 silly publish   _from: '.' }
 29 verbose request where is /apigee-mock
 30 verbose request registry https://registry.npmjs.org/
-31 verbose request id 6c9953b3b2b5ed32
+31 verbose request id 438d6206822dfb1e
 32 verbose url raw /apigee-mock
 33 verbose url resolving [ 'https://registry.npmjs.org/', './apigee-mock' ]
 34 verbose url resolved https://registry.npmjs.org/apigee-mock
 35 verbose request where is https://registry.npmjs.org/apigee-mock
-36 info trying registry request attempt 1 at 11:46:14
+36 info trying registry request attempt 1 at 17:40:53
 37 http PUT https://registry.npmjs.org/apigee-mock
 38 http 403 https://registry.npmjs.org/apigee-mock
-39 verbose headers { date: 'Sat, 10 Jan 2015 17:46:12 GMT',
+39 verbose headers { date: 'Thu, 26 Feb 2015 23:40:51 GMT',
 39 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
 39 verbose headers   'content-type': 'application/json',
 39 verbose headers   'cache-control': 'max-age=60',
-39 verbose headers   'content-length': '2921',
+39 verbose headers   'content-length': '2922',
 39 verbose headers   'accept-ranges': 'bytes',
 39 verbose headers   via: '1.1 varnish',
-39 verbose headers   'x-served-by': 'cache-dfw1825-DFW',
+39 verbose headers   'x-served-by': 'cache-ord1730-ORD',
 39 verbose headers   'x-cache': 'MISS',
 39 verbose headers   'x-cache-hits': '0',
-39 verbose headers   'x-timer': 'S1420911971.821796,VS0,VE278',
+39 verbose headers   'x-timer': 'S1424994051.727460,VS0,VE119',
 39 verbose headers   'keep-alive': 'timeout=10, max=50',
 39 verbose headers   connection: 'Keep-Alive' }
 40 error publish Failed PUT 403
-41 error Error: forbidden cannot modify pre-existing version: 0.0.1
-41 error old={"name":"apigee-mock","version":"0.0.1","description":"An Apigee mock testing library inspired by Sparrow.js","keywords":["apigee","javascript","test","mocha"],"author":{"name":"Darby Frey","email":"darbyfrey@gmail.com"},"repository":{"type":"git","url":"git://github.com/darbyfrey/apigee-mock.git"},"main":"./index","engines":{"node":">= 0.8.x"},"scripts":{"test":"make test"},"dependencies":{"should":">= 3.0.x"},"optionalDependencies":{},"devDependencies":{"deasync":"0.0.7","mocha":"~1.17.1","request":"^2.51.0"},"license":"MIT","gitHead":"4287e0392b698ea978bea7ae559537389b97e5cf","bugs":{"url":"https://github.com/darbyfrey/apigee-mock/issues"},"homepage":"https://github.com/darbyfrey/apigee-mock","_id":"apigee-mock@0.0.1","_shasum":"a6c088593013c7da77e321d4a247c8fcbac9db0b","_from":".","_npmVersion":"1.4.28","_npmUser":{"name":"darbyfrey","email":"darbyfrey@gmail.com"},"maintainers":[{"name":"darbyfrey","email":"darbyfrey@gmail.com"}],"dist":{"shasum":"a6c088593013c7da77e321d4a247c8fcbac9db0b","tarball":"http://registry.npmjs.org/apigee-mock/-/apigee-mock-0.0.1.tgz"}}
-41 error new={"name":"apigee-mock","version":"0.0.1","description":"An Apigee mock testing library inspired by Sparrow.js","keywords":["apigee","javascript","test","mocha"],"author":{"name":"Darby Frey","email":"darbyfrey@gmail.com"},"repository":{"type":"git","url":"git://github.com/darbyfrey/apigee-mock.git"},"main":"./index","engines":{"node":">= 0.8.x"},"scripts":{"test":"make test"},"dependencies":{"should":">= 3.0.x","request":"^2.51.0","deasync":"0.0.7","mocha":"~1.17.1"},"optionalDependencies":{},"devDependencies":{},"license":"MIT","readme":"apigee-mock\u000a===========\u000a\u000aAn Apigee mock testing library inspired by [Sparrow.js](https://github.com/r8k/sparrow.js).\u000a\u000a### Installation\u000a\u000a```\u000anpm install -g apigee-mock\u000acd your_project && sudo npm link apigee-mock\u000a```\u000a\u000a### Usage\u000a\u000aComing Soon\u000a","readmeFilename":"README.md","gitHead":"0e7c396986784298b6b38e490f6006c20c6f4ffe","bugs":{"url":"https://github.com/darbyfrey/apigee-mock/issues"},"homepage":"https://github.com/darbyfrey/apigee-mock","_id":"apigee-mock@0.0.1","_shasum":"a30f41914f05b26f9137a74e9c325bd9e8811b3b","_from":".","_npmVersion":"1.4.28","_npmUser":{"name":"darbyfrey","email":"darbyfrey@gmail.com"},"maintainers":[{"name":"darbyfrey","email":"darbyfrey@gmail.com"}],"dist":{"shasum":"a30f41914f05b26f9137a74e9c325bd9e8811b3b","tarball":"http://registry.npmjs.org/apigee-mock/-/apigee-mock-0.0.1.tgz"}}: apigee-mock
+41 error Error: forbidden cannot modify pre-existing version: 0.0.3
+41 error old={"name":"apigee-mock","version":"0.0.3","description":"An Apigee mock testing library inspired by Sparrow.js","keywords":["apigee","javascript","test","mocha"],"author":{"name":"Darby Frey","email":"darbyfrey@gmail.com"},"repository":{"type":"git","url":"git://github.com/darbyfrey/apigee-mock.git"},"main":"./index","engines":{"node":">= 0.8.x"},"scripts":{"test":"make test"},"dependencies":{"should":">= 3.0.x","request":"^2.51.0","deasync":"0.0.7","mocha":"~1.17.1"},"optionalDependencies":{},"devDependencies":{},"license":"MIT","gitHead":"7ab313ea320e701883b5e1a26a06867db0281fbb","bugs":{"url":"https://github.com/darbyfrey/apigee-mock/issues"},"homepage":"https://github.com/darbyfrey/apigee-mock","_id":"apigee-mock@0.0.3","_shasum":"4665795adeebb450ae6950fb6646a335c717a1d8","_from":".","_npmVersion":"1.4.28","_npmUser":{"name":"darbyfrey","email":"darbyfrey@gmail.com"},"maintainers":[{"name":"darbyfrey","email":"darbyfrey@gmail.com"}],"dist":{"shasum":"4665795adeebb450ae6950fb6646a335c717a1d8","tarball":"http://registry.npmjs.org/apigee-mock/-/apigee-mock-0.0.3.tgz"}}
+41 error new={"name":"apigee-mock","version":"0.0.3","description":"An Apigee mock testing library inspired by Sparrow.js","keywords":["apigee","javascript","test","mocha"],"author":{"name":"Darby Frey","email":"darbyfrey@gmail.com"},"repository":{"type":"git","url":"git://github.com/darbyfrey/apigee-mock.git"},"main":"./index","engines":{"node":">= 0.8.x"},"scripts":{"test":"make test"},"dependencies":{"should":">= 3.0.x","request":"^2.51.0","deasync":"0.0.7","mocha":"~1.17.1"},"optionalDependencies":{},"devDependencies":{},"license":"MIT","readme":"apigee-mock\u000a===========\u000a\u000aAn Apigee mock testing library inspired by [Sparrow.js](https://github.com/r8k/sparrow.js).\u000a\u000a### Installation\u000a\u000a```\u000anpm install -g apigee-mock\u000acd your_project && sudo npm link apigee-mock\u000a```\u000a\u000a### Usage\u000a\u000aComing Soon\u000a","readmeFilename":"README.md","gitHead":"122adf68b6b403592e7d42d6121fb7bf24797909","bugs":{"url":"https://github.com/darbyfrey/apigee-mock/issues"},"homepage":"https://github.com/darbyfrey/apigee-mock","_id":"apigee-mock@0.0.3","_shasum":"3c61830314e4829e71c151ae6aa77d69f02fa973","_from":".","_npmVersion":"1.4.28","_npmUser":{"name":"darbyfrey","email":"darbyfrey@gmail.com"},"maintainers":[{"name":"darbyfrey","email":"darbyfrey@gmail.com"}],"dist":{"shasum":"3c61830314e4829e71c151ae6aa77d69f02fa973","tarball":"http://registry.npmjs.org/apigee-mock/-/apigee-mock-0.0.3.tgz"}}: apigee-mock
 41 error     at RegClient.<anonymous> (/Users/darbyfrey/.nvm/v0.10.35/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:308:14)
 41 error     at Request._callback (/Users/darbyfrey/.nvm/v0.10.35/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:246:65)
 41 error     at Request.self.callback (/Users/darbyfrey/.nvm/v0.10.35/lib/node_modules/npm/node_modules/request/request.js:236:22)
@@ -106,7 +106,7 @@
 42 error If you need help, you may report this *entire* log,
 42 error including the npm and node versions, at:
 42 error     <http://github.com/npm/npm/issues>
-43 error System Darwin 14.0.0
+43 error System Darwin 14.1.0
 44 error command "/Users/darbyfrey/.nvm/v0.10.35/bin/node" "/Users/darbyfrey/.nvm/v0.10.35/bin/npm" "publish"
 45 error cwd /Users/darbyfrey/projects/code/apigee-mock
 46 error node -v v0.10.35
