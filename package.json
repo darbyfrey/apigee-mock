@@ -23,7 +23,7 @@
   "dependencies": {
     "should": ">= 3.0.x",
     "request": "^2.51.0",
-    "deasync": "0.0.7",
+    "deasync": "0.1.0",
     "mocha": "~1.17.1"
   },
   "optionalDependencies": {},
